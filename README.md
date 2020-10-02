@@ -301,3 +301,4 @@ Recipe courtesy Alton Brown
  - 18:3 n-6 c,c,c: 0.013 grams
  - 20:5 n-3 (EPA): 0.011 grams
  - 18:3i: 0.003 grams
+Thanks for reading me.I hope it was helpfull to you.
